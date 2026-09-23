@@ -7,9 +7,9 @@
 <body>
 <p>Nombre: Beatriz Oliveira</p><br/>
 <p>Apellido:Oliveira</p><br/>
-<p>Hobbies</p><br/>
-<p>jugar</p><br/>
-<p>nadar</p><br/>
-<p>leer</p><br/>
+<p>Hobbies</p><li/>
+<p>jugar</p><li/>
+<p>nadar</p><li/>
+<p>leer</p><li/>
 </body>
 </html>
