@@ -7,12 +7,9 @@
 <body>
 <p>Nombre: Beatriz Oliveira</p><br/>
 <p>Apellido:Oliveira</p><br/>
-<p>Módulos</p><br/>
-<p>SiopMO</p><br/>
-<p>IngPro</p><br/>
-<p>RedLOC</p><br/>
-<p>ItTeEml</p><br/>
-<p>SoApSiPr</p><br/>
-<p>DiApSePr</p><br/>
+<p>Hobbies</p><br/>
+<p>jugar</p><br/>
+<p>nadar</p><br/>
+<p>leer</p><br/>
 </body>
 </html>
